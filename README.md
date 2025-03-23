@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="left">Tecnologias que uso em meu dia a dia 🖥️!</h2>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5172F7&center=true&vCenter=true&width=435&lines=Tecnologias;Technologies" alt="Typing SVG" /></a>
 
 ###
 
