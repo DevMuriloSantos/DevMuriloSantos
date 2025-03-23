@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋! My name is Murilo and I'm a estudante de desenvolvimento de sistemas, from Etec.</h1>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=202FFFFF&center=true&vCenter=true&width=1000&height=70&duration=8000&lines=Estudante+de+desenvolvimento+de+sistemas,+pela+Etec...;" />
+</h1>
 
 ###
 
@@ -10,8 +12,8 @@
 </div>
 
 ###
-
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5172F7&center=true&vCenter=true&width=435&lines=Tecnologias;Technologies" alt="Typing SVG" /></a>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=4000&color=FF00FF&center=true&width=700&lines=Tecnologias;Technologies" alt="Typing SVG" /></a></h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###
 
@@ -20,7 +22,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" height="60" alt="js logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
@@ -28,7 +30,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.giphy.com/VVvcpqq3R34dClYgee.webp"  />
+  <img height="184" src="https://c.tenor.com/5ry-200hErMAAAAd/tenor.gif"  />
 </div>
 
 ###
@@ -36,15 +38,13 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="47" height="35" alt="visualstudio logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="184" src="https://c.tenor.com/5ry-200hErMAAAAd/tenor.gif"  />
+  <img height="184" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/refs/heads/master/code.gif" />
 </div>
 
 ###
