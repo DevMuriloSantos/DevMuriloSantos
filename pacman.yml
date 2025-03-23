@@ -21,7 +21,7 @@ jobs:
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
-          Murilohtml06: ${{ github.repository_owner }}
+          Murilohtml06: ${{ github.Murilohtml06 }}
 
 
       - name: push pacman-contribution-graph.svg to the output branch
