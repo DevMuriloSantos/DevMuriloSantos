@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="center">Tecnologias que uso em meu dia a dia 🖥️!</h2>
+<h2 align="left">Tecnologias que uso em meu dia a dia 🖥️!</h2>
 
 ###
 
@@ -27,13 +27,9 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Murilohtml06/Murilohtml06/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Murilohtml06/Murilohtml06/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Murilohtml06/Murilohtml06/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="200" src="https://i.giphy.com/VVvcpqq3R34dClYgee.webp"  />
+</div>
 
 ###
 
