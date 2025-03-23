@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="left">Tecnologias que uso em meu dia a dia 🖥️!</h2>
+<h2 align="center">Tecnologias que uso em meu dia a dia 🖥️!</h2>
 
 ###
 
