@@ -40,7 +40,16 @@
 <img width="12" />
 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Npm-Dark.svg" height="30" alt="logo npm">
-<img width="12" />
+<img width="12" /> <br>
+
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="logo react">
+<img width="12">
+
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="logo react">
+<img width="12">
+
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="logo react">
+<img width="12">
 </div>
 
 ###
