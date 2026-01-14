@@ -7,8 +7,8 @@
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevMuriloSantos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  /> -->
   <!-- <img src="https://streak-stats.demolab.com?user=DevMuriloSantos&locale=pt-br&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  /> -->
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevMuriloSantos&bg_color=black&area=true&hide_border=true&hide_title=false&theme=github-dark&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%B5es%20de%20Murilo" height="209" alt="activity-graph graph"  /> -->
-  <img src="https://github-profile-trophy.vercel.app?username=DevMuriloSantos&theme=onedark&column=3&row=1&margin-w=0&margin-h=0&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevMuriloSantos&bg_color=black&area=true&hide_border=true&hide_title=false&theme=github-dark&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%B5es%20de%20Murilo" height="209" alt="activity-graph graph"  />
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=DevMuriloSantos&theme=onedark&column=3&row=1&margin-w=0&margin-h=0&no-bg=true&no-frame=true" height="150" alt="trophy graph"  /> -->
 </div>
 
 ###
