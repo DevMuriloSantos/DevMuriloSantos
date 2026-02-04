@@ -53,9 +53,6 @@
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/typescript/typescript-original.svg" height="30" alt="logo ts">
 <img width="12"> <br>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/vercel/vercel-original.svg" height="30" alt="logo vercel">
-<img width="12">
 </div>
 
 ###
