@@ -30,13 +30,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" /> <br>
   
-  <img src="https://camo.githubusercontent.com/6b1bf7b8b619209db3380bb7d254b3aa8eacd86d708ee47c4efd90c3e770c190/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" height="30" alt="logo bootstrap">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/bootstrap/bootstrap-original.svg" height="30" alt="logo bootstrap">
 <img width="12" />
 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" height="30" alt="logo express.js">
 <img width="12" />
 
-  <img src="https://camo.githubusercontent.com/c0ed7f7d36d6437790846bc99e238abd7cb2205dbec27c6e6be959abb04e2733/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" height="30" alt="logo node.js">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/nodejs/nodejs-original.svg" height="30" alt="logo node.js">
 <img width="12" />
 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Npm-Dark.svg" height="30" alt="logo npm">
@@ -45,10 +45,13 @@
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="logo react">
 <img width="12">
 
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="logo react">
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="logo firebase">
 <img width="12">
 
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="logo react">
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="logo vite">
+<img width="12">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/typescript/typescript-original.svg" height="30" alt="logo ts">
 <img width="12">
 </div>
 
