@@ -6,7 +6,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevMuriloSantos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=DevMuriloSantos&theme=dark&background=45%2C505050%2C000000&border=6D738B" height="150" alt="streak graph"  />
   <img src="https://streak-stats.demolab.com?user=DevMuriloSantos&theme=dark&background=44%2C313131%2C000000&border=6D738B" height="209" alt="activity-graph graph"  />
   <!-- <img src="https://github-profile-trophy.vercel.app?username=DevMuriloSantos&theme=onedark&column=3&row=1&margin-w=0&margin-h=0&no-bg=true&no-frame=true" height="150" alt="trophy graph"  /> -->
 </div>
