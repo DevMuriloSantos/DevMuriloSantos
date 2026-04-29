@@ -59,7 +59,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/visualstudio/visualstudio-original.svg" height="30" alt="logo visual studio">
   <img width="12">
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="40" alt="logo sql server">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="60" alt="logo sql server">
   <img width="12">
 
 </div>
